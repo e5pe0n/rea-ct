@@ -11,6 +11,7 @@
     "esModuleInterop": true,
     "allowSyntheticDefaultImports": true,
     "noImplicitAny": true,
+    "strictNullChecks": true,
     "forceConsistentCasingInFileNames": true,
     "noFallthroughCasesInSwitch": true,
     "module": "esnext",
@@ -19,8 +20,5 @@
     "isolatedModules": false,
     "noEmit": true,
     "jsx": "react-jsx"
-  },
-  "include": [
-    "src"
-  ]
+  }
 }
