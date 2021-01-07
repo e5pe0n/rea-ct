@@ -4,4 +4,4 @@ Learning about TypeScript and React refering to りあクト！ series written b
 
 りあクト！ series reference repo: https://github.com/oukayuka/Riakuto-StartingReact-ja3.1
 
-Thanks nice books!
+Thanks for nice books!
